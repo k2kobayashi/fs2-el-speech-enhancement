@@ -1,1 +1,1 @@
-# low-latency-el-speech-enhancement
+# fs2-el-speech-enhancement
